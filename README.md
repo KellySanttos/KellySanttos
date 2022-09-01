@@ -2,7 +2,6 @@
 
 
 - 🌱 Estudando WebDev Full Stack
-- 💬 Contate-me no email: kellytecnit@gmail.com
 - 😄 Pronome: ela/dela
 
 <div align="center">
