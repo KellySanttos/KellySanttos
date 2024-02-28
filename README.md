@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Kelly Santtos. É uma honra receber a sua visita.
 
 
-- 🌱 Estudando WebDev Full Stack
+- 🌱 Estagiária Backend - Kotlin
+- :page_facing_up: Certificada AWS Practitioner
 - 😄 Pronome: ela/dela
 
 <div style="display: inline_block" align="center">
