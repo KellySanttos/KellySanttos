@@ -1,4 +1,4 @@
-## Olá! Eu sou a Kelly Santtos. É uma honra receber a sua visita.
+## Olá! Eu sou a Kelly Santos. É uma honra receber a sua visita.
 
 
 - 🌱 Estagiária Backend - Kotlin
