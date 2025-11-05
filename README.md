@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Kelly Santos. É uma honra receber a sua visita.
 
 
-- 🌱 Estagiária Backend - Kotlin
+- 🌱 Engineer SRE
 - :page_facing_up: Certificada AWS Practitioner
 - 😄 Pronome: ela/dela
 
